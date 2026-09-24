@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+pymupdf
+python-multipart
+huggingface_hub
+python-dotenv
+pymongo
